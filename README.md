@@ -60,5 +60,4 @@ The poor air quality in the Monterrey metropolitan area is a persistent issue, p
 - **Pollutant and Wind Effects**: Increased particle concentrations in Apodaca combined with higher wind speed negatively impacted air quality in San Nicolás for both PM10 and PM2.5.
 - **Relative Humidity**: A key predictor in the models, relative humidity positively influenced air quality classifications, suggesting a mitigating effect on pollutant concentrations.
 
-The results underscore the importance of considering industrial windborne pollutants and environmental factors in air quality management.
 
